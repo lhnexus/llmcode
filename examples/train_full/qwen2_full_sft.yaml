@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: /opt/ml/pretrain_model
+model_name_or_path: /opt/ml/pretrain_model/Qwen2-0___5b-Instruct
 image_max_pixels: 262144
 video_max_pixels: 16384
 trust_remote_code: true
